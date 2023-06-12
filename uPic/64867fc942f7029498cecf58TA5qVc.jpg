@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    
+    <title>dominator</title>
+    <script type="module" crossorigin src="/assets/index.720f5321.js"></script>
+    <link rel="stylesheet" href="/assets/index.7095fc97.css">
+  </head>
+  <body>
+    <script id="prefly-data">
+      var __DATA = {};
+    </script>
+    <noscript>
+      <strong>请启用 Javascript 以访问服务</strong>
+    </noscript>
+    <div id="app">
+      载入中。。。
+    </div>
+  </body>
+</html>
